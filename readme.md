@@ -9,8 +9,10 @@ If you enjoy trying things out, and learning new languages, this list will help 
 
 #Install
 
-git clone <repost-git>
+git clone repost-git-path
+
 git submodule init
+
 git submodule update
 
 #Kōans list
