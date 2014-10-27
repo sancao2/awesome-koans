@@ -1,0 +1,18 @@
+[submodule "ruby_koans"]
+	path = ruby_koans
+	url = https://github.com/neo/ruby_koans.git
+[submodule "python_koans"]
+	path = python_koans
+	url = https://github.com/gregmalcolm/python_koans
+[submodule "lisp_koans"]
+	path = lisp_koans
+	url = https://github.com/google/lisp-koans
+[submodule "bash_koans"]
+	path = bash_koans
+	url = https://github.com/marcinbunsch/bash_koans
+[submodule "java_koans"]
+	path = java_koans
+	url = https://github.com/matyb/java-koans
+[submodule "haskell_koans"]
+	path = haskell_koans
+	url = https://github.com/HaskVan/HaskellKoans
