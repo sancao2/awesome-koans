@@ -7,5 +7,11 @@ ________________________________
 
 If you enjoy trying things out, and learning new languages, this list will help to do that.
 
+#Install
+
+git clone <repost-git>
+git submodule init
+git submodule update
+
 #Kōans list
  - [English](https://github.com/ahmdrefat/koans/blob/master/koans-en.md)
