@@ -16,3 +16,6 @@
 [submodule "haskell_koans"]
 	path = haskell_koans
 	url = https://github.com/HaskVan/HaskellKoans
+[submodule "lisp-koans"]
+	path = lisp-koans
+	url = https://github.com/google/lisp-koans
