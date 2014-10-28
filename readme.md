@@ -9,11 +9,7 @@ If you enjoy trying things out, and learning new languages, this list will help 
 
 #Install
 
-git clone repost-git-path
-
-git submodule init
-
-git submodule update
+git clone --recursively repos-git-path
 
 #Kōans list
  - [English](https://github.com/ahmdrefat/koans/blob/master/koans-en.md)
