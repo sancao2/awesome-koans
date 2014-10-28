@@ -9,7 +9,7 @@ If you enjoy trying things out, and learning new languages, this list will help 
 
 #Install
 
-git clone --recursively repos-git-path
+git clone --recursively https://github.com/sancao2/awesome-koans.git
 
 #Kōans list
  - [English](https://github.com/ahmdrefat/koans/blob/master/koans-en.md)
